@@ -10,3 +10,4 @@ Kill List
 
 * Bad variable names
 * Too long commemts
+shit happens
