@@ -1,12 +1,12 @@
 Kill List
 =========
-*Unused code
+* Unused code
 
-*Functions with side effects
+* Functions with side effects
 
-*Unformatted code
+* Unformatted code
 
-*Repeated code blocks
+* Repeated code blocks
 
-*Bad variable names
-Too long commemts
+* Bad variable names
+* Too long commemts
